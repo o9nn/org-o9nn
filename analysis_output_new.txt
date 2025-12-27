@@ -1,0 +1,661 @@
+Loading organization data from: /home/ubuntu/org-o9nn/org-graph-raw.json
+================================================================================
+O9NN ORGANIZATION ANALYSIS
+================================================================================
+
+Organization: o9nn
+Login: o9nn
+URL: https://github.com/o9nn
+Created: 2025-10-24T07:51:09Z
+Total Repositories: 572
+Total Members: 3
+
+================================================================================
+LANGUAGE DISTRIBUTION
+================================================================================
+Python: 106 repositories
+C++: 84 repositories
+TypeScript: 64 repositories
+C: 52 repositories
+Go: 37 repositories
+Lua: 37 repositories
+JavaScript: 28 repositories
+C#: 11 repositories
+Shell: 11 repositories
+Swift: 9 repositories
+HTML: 8 repositories
+Scheme: 7 repositories
+Cuda: 7 repositories
+Julia: 5 repositories
+PowerShell: 5 repositories
+CMake: 4 repositories
+Rust: 4 repositories
+OCaml: 4 repositories
+Common Lisp: 4 repositories
+Scala: 4 repositories
+Arc: 3 repositories
+Assembly: 3 repositories
+Java: 3 repositories
+Jupyter Notebook: 3 repositories
+q: 3 repositories
+Smali: 3 repositories
+Mathematica: 3 repositories
+Vue: 2 repositories
+ShaderLab: 2 repositories
+Solidity: 2 repositories
+Crystal: 2 repositories
+Rocq Prover: 2 repositories
+TeX: 2 repositories
+Makefile: 2 repositories
+Starlark: 1 repositories
+Clojure: 1 repositories
+MDX: 1 repositories
+Racket: 1 repositories
+Odin: 1 repositories
+Svelte: 1 repositories
+REXX: 1 repositories
+PureBasic: 1 repositories
+Coq: 1 repositories
+Rich Text Format: 1 repositories
+LLVM: 1 repositories
+Markdown: 1 repositories
+Typst: 1 repositories
+Haskell: 1 repositories
+HCL: 1 repositories
+Fortran: 1 repositories
+KiCad Layout: 1 repositories
+MATLAB: 1 repositories
+PHP: 1 repositories
+R: 1 repositories
+Dockerfile: 1 repositories
+AutoHotkey: 1 repositories
+Xmake: 1 repositories
+Dart: 1 repositories
+Jinja: 1 repositories
+
+================================================================================
+REPOSITORY CATEGORIES
+================================================================================
+
+Core Libraries (3):
+  - cogpilot.jl
+  - cogtorch
+  - nnpu
+
+Forked Projects (511):
+  - 9it
+  - ANNetGPGPU
+  - ARTv2
+  - ATen
+  - ATenCo9
+  - ATenS
+  - ATenTree
+  - AgentBaker
+  - AgenticAI
+  - ArcGameEngine
+  - AzStaHCog
+  - BanterSDK
+  - BepInEx
+  - Boxedwine
+  - CGMBLEKit
+  - CharacterAI
+  - ChatGPT
+  - Chatbook
+  - CogUI
+  - ComfyUI
+  - CubismExternalAppPluginSamples
+  - CubismHologramApp
+  - CubismUnitySamplesExtended
+  - CubismUnrealEngineComponents
+  - DHT-sensor-library
+  - DisjointSet
+  - EOS-Getting-Started
+  - Game-Bots
+  - GraspGen
+  - GraspGraspGen
+  - Halide
+  - Hunyuan3D-2
+  - HunyuanWorld-1.0
+  - HunyuanWorld-Mirror
+  - HunyuanWorld-MirrorCog
+  - ITK
+  - JuliaCogHub.jl
+  - JuliaHub-SS-Platform
+  - JuliaHubPlatform
+  - KeYmaeraX
+  - KogboldAI
+  - Konata
+  - LightGL
+  - LlamaKit
+  - Loop
+  - LoopKit
+  - LoopWorkspace
+  - ML.DEV
+  - MSLK
+  - Manifold
+  - MetaGPT
+  - MetaHuman-DNA-Calibration
+  - Metaprogrammable
+  - Muon
+  - NLWeb
+  - NeuroPilot
+  - Noi
+  - OmniPackage.jl
+  - OpenMP-Examples
+  - OpenMP-sources
+  - OpenManus
+  - OpenManus-RL
+  - OpenManus_Archive
+  - PixelStreamingInfrastructure
+  - ProjectCogTwin
+  - RAGEN
+  - RWKV-LM
+  - Result
+  - SideQuest
+  - TRELLIS
+  - TesseractCore
+  - ThirdParty
+  - UnrealEngine
+  - UnrealYAML
+  - VTubeStudio
+  - Wenode
+  - WickedEngine
+  - WinKoGNN
+  - a9nn
+  - aa-sdk
+  - account-abstraction
+  - act
+  - action-send-mail
+  - ag2
+  - agent-zero
+  - agml
+  - agn-ai
+  - airi
+  - alchemy-sdk-js
+  - anarki
+  - anti-fraud
+  - aphrodite-engine
+  - aphrodite-loadbalancer
+  - aphroditecho
+  - apl253
+  - april
+  - arc-nu
+  - argcheck
+  - argilla-sdk-chatbot
+  - array-operations
+  - asmjit
+  - atlantis
+  - azure-login
+  - azuredatastudio
+  - banter-blender-plugin
+  - bazel-central-registry
+  - bazelisk
+  - beast
+  - beastcog
+  - bin2go
+  - buildbot
+  - cairo-ffi
+  - cal.com
+  - ce-ci
+  - cfw-temp
+  - char-lstm
+  - char-rnn
+  - character-card-spec-v2
+  - character-card-spec-v3
+  - chromedp
+  - ci
+  - circles
+  - circt
+  - class
+  - cli-generator
+  - clib
+  - cline
+  - cloudflare-go
+  - cloudflare-typescript
+  - cm-dovecot
+  - co9nn
+  - cog
+  - cog253
+  - cogfoundry
+  - coghands
+  - cogllama
+  - cogpiler
+  - cogpinfra
+  - cogpiworkflows
+  - cogplan9
+  - cogreactos
+  - cogtaskflow
+  - coguix
+  - compiler-explorer
+  - compiler-workflows
+  - copilot-cli
+  - coq-in-coq
+  - core
+  - cosmos-system-5
+  - cpuinfo
+  - create-web3-dapp
+  - crossplane
+  - crystalcog
+  - csv2tensor
+  - cudann
+  - cugraph-gnn
+  - cugraph-hypergnn
+  - cuml
+  - cunn
+  - cursdk
+  - cva6
+  - cva6s
+  - cwrap
+  - cxxopts
+  - d
+  - d81p9p9
+  - d9
+  - daedalOS
+  - daeguix
+  - daelos
+  - dart-event-source
+  - das
+  - delta-echo-desk
+  - deltachat-core
+  - deltacog
+  - demos
+  - desesc
+  - desktop-waifu
+  - devops-exercises
+  - dgl
+  - dgraph
+  - distilabel
+  - dnslib-cpp
+  - dok
+  - dotnet-sdk
+  - dovecog
+  - dovecot-core
+  - drawkern
+  - dyad-lang
+  - dynav
+  - echo-jnn
+  - echo.go
+  - echo.kern
+  - ecma262
+  - ecmarkup
+  - eil-sdk
+  - electron
+  - elizaos-cpp
+  - elizoscog
+  - elizoscog1
+  - env
+  - esesc
+  - esn.cpp
+  - examples
+  - fastagency
+  - fern
+  - fern-platform
+  - ffi
+  - filestack-js
+  - firecrawl
+  - firrtl
+  - flarecog
+  - fluid
+  - fs
+  - fused-syntax
+  - g3
+  - galatea-ui
+  - generator-polymer
+  - geo
+  - ggnumlcash.cpp
+  - gisp
+  - gitea
+  - github-actions-with-coolify
+  - github-mathjax
+  - gitpod
+  - glow
+  - gneuralnetwork
+  - gnuplot
+  - go
+  - go-builder
+  - go-lib
+  - go-webdav
+  - go.d.plugin
+  - goakt
+  - gogl
+  - gogl2
+  - gpt-2
+  - gradio
+  - graph
+  - graph_nets
+  - graphiql
+  - graphrag-accelerator
+  - grave
+  - gridgen
+  - grpc
+  - gsplat
+  - guix-install-action
+  - hagent
+  - hhds
+  - hif
+  - higher
+  - hyper-commerce
+  - hyperd
+  - hyperdocs
+  - hypermind
+  - hypersets
+  - hypothesis
+  - image
+  - imaptest
+  - imgui
+  - infernos
+  - infinity-arcade
+  - infra
+  - instant-ngp
+  - ir-py
+  - izzyondroidcog
+  - jan
+  - jax
+  - jax-ai-stack
+  - jax-llm-examples
+  - jraph
+  - json
+  - json.h
+  - kogboldcpp
+  - kona
+  - ksm-action
+  - kubernetes
+  - langs-hello-world
+  - learn2learn
+  - lemonade
+  - lencx-ai
+  - libbpf
+  - libbpf-bootstrap
+  - light-account
+  - litellm
+  - livehd
+  - llama.dll
+  - llamacog
+  - llm-functions
+  - llvm-project
+  - lobe-chat
+  - lua-cjson
+  - luarocks
+  - lustre-release
+  - manuscog
+  - mathgl
+  - maui
+  - mendable-nextjs-chatbot
+  - metabbotcfg
+  - metacogpt
+  - microworld
+  - miratope-rs
+  - misc-builder
+  - ml-agents
+  - ml-dev-bench
+  - ml.q
+  - ml_dtypes
+  - mlir-www
+  - mmultisets
+  - modded-nanogpt
+  - modded-nanogpt-rwkv
+  - modelviewer-mf6
+  - modflow6
+  - modular-account
+  - modus
+  - moeru-ai
+  - moonrocks
+  - multipy
+  - myopen
+  - n8n-nodes-featherless
+  - nLPluginMouseExtender
+  - nLPluginQmlSample
+  - nano
+  - nanochat
+  - nanocyc
+  - nerfstudio
+  - nerfstudio-webui
+  - netdata
+  - networkx
+  - neuro-sama
+  - neuro-sdk
+  - nextra
+  - nn
+  - nngraph
+  - nnoi
+  - node
+  - node-gdal
+  - node-llama-cpp
+  - node9
+  - node9cog
+  - node_characterai
+  - nodecog
+  - nvblox_torch
+  - nvm
+  - nvml
+  - occ
+  - ocnn
+  - ocoq-dL
+  - odin-imgui
+  - oeis
+  - oeisdata
+  - oeisml
+  - ohash
+  - ollama
+  - onnx
+  - onnx-mlir
+  - open-graph-protocol
+  - open-webui
+  - openai-cpp
+  - opennn
+  - optim
+  - org-oc
+  - orogene
+  - osmosis
+  - owi
+  - page9
+  - pandamania
+  - peel
+  - piston
+  - plan9-cogcities-kernel
+  - playable-data
+  - plingua
+  - pnpm
+  - polyhedral.info
+  - ppaqse-os
+  - premake-core
+  - prompts
+  - purebasic
+  - pycog0
+  - pyg-aphrodite-engine
+  - pyg-aphrodite-loadbalancer
+  - pyg-cli-generator
+  - pyg-colossalai-training-code
+  - pyg-data-toolbox
+  - pyg-galatea-frontend
+  - pyg-galatea-ui
+  - pyg-gradio-ui
+  - pyg-paphos-backend
+  - pyg-quantizers
+  - python-build-standalone
+  - pytorch
+  - pytorch-maml-rl
+  - pytorch-meta
+  - q-evm
+  - qBigInt
+  - qtlua
+  - racket
+  - railpack
+  - rainbow
+  - rational
+  - re2
+  - reactos
+  - reka-ui
+  - relay
+  - reliableGPT
+  - reservoircpp
+  - reservoirpy
+  - rnn
+  - rocq-opam
+  - ros9etta
+  - rros-kern
+  - rrp9-civic-angel
+  - runtime
+  - rwkv.cog
+  - rwkv.cpp
+  - rwkv.cppy
+  - safe-smart-account
+  - sb-client
+  - scaffold-alchemy
+  - scaling-book
+  - scummvm
+  - scvml
+  - sdl2-ffi
+  - seed
+  - self-hosted
+  - senna
+  - sentry
+  - sentry-javascript
+  - setup-railway-cli-action
+  - simplechisel
+  - smali2java
+  - socket.io
+  - socket.io-client-cpp
+  - socketfile
+  - spl-cpp
+  - stellarium
+  - stellarium-web-engine
+  - streamerbot-docs
+  - subprocess.h
+  - sudo
+  - supabase
+  - supernova
+  - synclinear.com
+  - syncthing
+  - sys
+  - sysstat
+  - taskflow
+  - terraform-provider-secretsmanager
+  - testme
+  - text-generation-webui
+  - text-generation-webui-extensions
+  - tfml
+  - the-org
+  - theia
+  - threads
+  - tilestrata
+  - timml
+  - tiny-cuda-nn
+  - tinyobjloader
+  - tis-backend
+  - tis-core
+  - tis-server
+  - toml
+  - torch-demos
+  - torch-distro
+  - torch-rnn
+  - torch7
+  - torch9
+  - torchchat
+  - torchdynamo
+  - torchtitan
+  - trepl
+  - trt-llm-as-openai-windows
+  - turnkeyml
+  - tvm
+  - typescript-neuro-game-api
+  - typescript-neuro-game-sdk
+  - usdt
+  - usql
+  - uv
+  - v8
+  - v8.dev
+  - vaw
+  - vcpkg
+  - vcpkg-tool
+  - vdb
+  - vector
+  - vggt
+  - vibesdk
+  - vmlinux.h
+  - vocpkg
+  - waifu-desktop
+  - wapp
+  - webnode
+  - webvm
+  - wholegraph
+  - winetricks
+  - winezeug
+  - workerd
+  - wut
+  - xaitk-saliency
+  - xaitk-saliency-web-demo
+  - xlua
+  - xmake
+  - xmake-repo
+  - xrepo
+  - yaml-cpp
+  - zDLC
+  - zen
+  - zfunctorch
+  - zpytorch
+
+Organization (1):
+  - org-o9nn
+
+================================================================================
+REPOSITORY HEALTH METRICS
+================================================================================
+
+Repositories with descriptions: 466/572 (81.5%)
+Repositories without descriptions: 106/572 (18.5%)
+Original repositories: 61
+Forked repositories: 511
+Archived repositories: 0
+Private repositories: 9
+
+================================================================================
+RECENT ACTIVITY (Last 30 days)
+================================================================================
+  - elizoscog1 (updated -1 days ago)
+  - crystalcog (updated -1 days ago)
+  - cog-ts (updated -1 days ago)
+  - elizaos-cpp (updated 0 days ago)
+  - ros9etta (updated 0 days ago)
+  - togai (updated 0 days ago)
+  - ATenSpace (updated 0 days ago)
+  - un9n (updated 0 days ago)
+  - org-o9nn (updated 0 days ago)
+  - ksm-action (updated 0 days ago)
+
+================================================================================
+RECOMMENDATIONS FOR IMPROVEMENT
+================================================================================
+
+1. DOCUMENTATION GAPS:
+   - 106 repositories lack descriptions
+   - Add clear, concise descriptions to all repositories
+   - Ensure README files exist in all active repositories
+
+2. REPOSITORY ORGANIZATION:
+   - Consider archiving unused experimental repositories
+   - Add topics/tags to repositories for better discoverability
+   - Create a comprehensive organization README (org-o9nn)
+
+3. NAMING CONVENTIONS:
+   - All repositories follow 'cog*' naming pattern (good consistency)
+   - Consider adding prefixes for different categories (e.g., 'cog-core-*', 'cog-tools-*')
+
+4. LANGUAGE ECOSYSTEM:
+   - Strong Python presence (good for ML/AI)
+   - Multiple low-level implementations (C, C++, Rust, Zig, Go)
+   - Consider consolidating similar implementations
+
+5. INTEGRATION & DEPLOYMENT:
+   - Good separation of concerns (infra, CI, deploy)
+   - Ensure CI/CD pipelines are active and maintained
+   - Document deployment procedures
+
+6. FORKED PROJECTS:
+   - 511 forked repositories (Pygmalion AI related)
+   - Clarify purpose and maintenance status of forks
+   - Consider contributing changes upstream
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
